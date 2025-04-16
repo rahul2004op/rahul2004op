@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul2004op
 - 🌱 I’m currently learning DSA with JAVA
-- 💞️ I’m looking to collaborate on Android projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rahulwanjare88@gmail.com 
 
 
